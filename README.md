@@ -10,4 +10,4 @@ To be able to run the experiments, you need to perform the following steps:
 This script will create plots with Shapley values of the original and the manipulated models with both mean and median subset functions.
 The plots can be found in `census/res_<attack number>/images`.
 7. Run plot_lipschitz_bound.py: ```python plot_lipschitz_bound.py```.
-This script will plot the Lipschitz constant. The plot can be found in project root.
+This script will plot Lipschitz constants. The plot can be found in project root.
